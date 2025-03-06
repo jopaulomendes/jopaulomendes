@@ -4,11 +4,11 @@
 
 ---
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 💡 Apaixonado por tecnologia, inovação e boas práticas de desenvolvimento.
 
-🎯 Atualmente trabalhando com **Java 8+, Spring Boot, Hibernate, MySQL, WildFly e React**.
+🎯 Atualmente trabalhando com **Java 8+, Spring Boot, Hibernate, SQL Server, WildFly e React**.
 
 🌱 Sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
 
